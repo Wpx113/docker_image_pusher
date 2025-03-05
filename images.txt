@@ -1,1 +1,1 @@
-mongo:6.0.14
+rabbitmq:3.12-management
