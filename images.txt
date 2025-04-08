@@ -1,1 +1,1 @@
-cassandra:4.1
+gcr.io/google-samples/cassandra:v13
