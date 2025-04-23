@@ -1,1 +1,1 @@
-gcr.io/google-samples/cassandra:v13
+apachedoris/doris-fe:2.1.2
